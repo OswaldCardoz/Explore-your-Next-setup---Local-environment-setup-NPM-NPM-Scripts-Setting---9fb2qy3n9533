@@ -227,3 +227,12 @@
     transform: rotate(0deg);
   }
 }
+.main {
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
